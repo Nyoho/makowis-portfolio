@@ -7951,12 +7951,12 @@ jest-message-util@^24.9.0:
     slash "^2.0.0"
     stack-utils "^1.0.1"
 
-jest-mock-axios@4.2.1:
-  version "4.2.1"
-  resolved "https://registry.npmjs.org/jest-mock-axios/-/jest-mock-axios-4.2.1.tgz"
-  integrity sha512-YUoV+A/Z6HWJePwXVc/4/Gtu1AgKqYNZ6ngjV+1kGepREni5aOPlmHyiwiH+lNuyoLOhtgBVROZf8ij1Va8oAw==
+jest-mock-axios@4.4.0:
+  version "4.4.0"
+  resolved "https://registry.npmjs.org/jest-mock-axios/-/jest-mock-axios-4.4.0.tgz"
+  integrity sha512-MF5MbjIZcv2KCtO6oH/Fmy1sML1LxQoaGyIPRGArDdd9pcsfjWoCmFFUD12GgOTeJw8ChjuVYHN0s8QnhGriQA==
   dependencies:
-    synchronous-promise "^2.0.13"
+    synchronous-promise "^2.0.15"
 
 jest-mock@^24.0.0, jest-mock@^24.9.0:
   version "24.9.0"
@@ -12773,10 +12773,10 @@ symbol.prototype.description@^1.0.0:
   dependencies:
     has-symbols "^1.0.0"
 
-synchronous-promise@^2.0.13:
-  version "2.0.13"
-  resolved "https://registry.npmjs.org/synchronous-promise/-/synchronous-promise-2.0.13.tgz"
-  integrity sha512-R9N6uDkVsghHePKh1TEqbnLddO2IY25OcsksyFp/qBe7XYd0PVbKEWxhcdMhpLzE1I6skj5l4aEZ3CRxcbArlA==
+synchronous-promise@^2.0.15:
+  version "2.0.15"
+  resolved "https://registry.npmjs.org/synchronous-promise/-/synchronous-promise-2.0.15.tgz"
+  integrity sha512-k8uzYIkIVwmT+TcglpdN50pS2y1BDcUnBPK9iJeGu0Pl1lOI8pD6wtzgw91Pjpe+RxtTncw32tLxs/R0yNL2Mg==
 
 table@^5.2.3:
   version "5.3.3"
